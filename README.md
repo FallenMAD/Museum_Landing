@@ -1,4 +1,4 @@
-# Museum landing page
+# Museum landing page  🕋
 It's a single landing page, present Museum website. On page you can see our events which we have and you can buy a ticket. You can visit to our Museum, on page we have schedule, please check it. If you have a question you can call to us or write on e-mail. Please check the demo link and you can see our website.
 
 # [DEMO LINK](https://FallenMAD.github.io/Museum_Landing/)
